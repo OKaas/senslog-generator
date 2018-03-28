@@ -1,4 +1,4 @@
-package cz.hsrs.maplog;
+package cz.senslog;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.sun.jersey.api.client.Client;

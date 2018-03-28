@@ -128,7 +128,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        cz.hsrs.maplog.Penetration
+                                        cz.senslog.Penetration
                                     </mainClass>
                                 </manifest>
                             </archive>

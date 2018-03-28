@@ -1,4 +1,4 @@
-package cz.hsrs.maplog;
+package cz.senslog;
 
 public class Penetration {
     public static void main(final String[] args) {
